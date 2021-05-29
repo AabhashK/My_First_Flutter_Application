@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-import "package:flutter/material.dart";
-
 class Homepage extends StatelessWidget {
   final int project = 1;
   final String name = "AK";
